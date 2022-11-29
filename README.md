@@ -1,7 +1,7 @@
 # Baseball-game
 A game created in scratch
 
-###Try out my game using scratch website
+### Try out my game using scratch website
 
 1- Go to this url: https://scratch.mit.edu/projects/editor/
 
